@@ -18,7 +18,6 @@ This tool automates the process of portfolio optimization by:
 ### Prerequisites 
 You will need Python 3.x and the following libraries:
 
-```bash
 pip install pandas numpy matplotlib yfinance
 
 ### Installation
