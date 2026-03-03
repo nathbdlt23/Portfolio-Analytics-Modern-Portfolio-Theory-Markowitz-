@@ -1,6 +1,6 @@
 # Portfolio Analytics: Modern Portfolio Theory (Markowitz)
 
-This project implements the **Markowitz Modern Portfolio Theory (MPT)** to identify the **Efficient Frontier** and the **Optimal Tangency Portfolio** using historical market data and Monte Carlo simulations.
+This project implements the **Markowitz Modern Portfolio Theory ** to identify the **Efficient Frontier** and the **Optimal Tangency Portfolio** using historical market data and Monte Carlo simulations.
 
 ##  Overview
 This tool automates the process of portfolio optimization by:
