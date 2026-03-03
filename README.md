@@ -13,25 +13,5 @@ This tool automates the process of portfolio optimization by:
 * **Project_Markowitz.ipynb**: The main narrative notebook containing the analysis, visualizations, and critical conclusions.
 * **functions_kit.py**: A dedicated Python module containing the computational engine (returns calculation, statistics, simulation, and plotting).
 
-##  Getting Started
-
-### Prerequisites 
-You will need Python 3.x and the following libraries:
-
-pip install pandas numpy matplotlib yfinance
-
-### Installation
-
-1. **Clone the repository.**
-2. **Ensure `functions_kit.py` is in the same directory** as the notebook.
-3. **Open `Project_Markowitz.ipynb`** in Jupyter or VS Code and run all cells.
-
-###  Methodology
-
-* **Risk-Free Rate**: Set at **2.0%**, reflecting the current Euro Short-Term Rate (€STR) environment.
-* **Assets Selection**: Currently configured for major European tickers (e.g., LVMH, Sanofi, BNP Paribas).
-* **Performance Metric**: Maximization of the Sharpe Ratio to find the Tangency Portfolio.
-
-###  Disclaimer
 
 This project is for **academic purposes only** (L3 Economics, University of Rouen). It represents a "perfect world" theoretical framework and does not account for market frictions, transaction costs, or non-linear risks.
